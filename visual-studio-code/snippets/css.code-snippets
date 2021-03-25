@@ -1,0 +1,34 @@
+{
+  "Reset CSS": {
+    "prefix": "reset",
+    "body": [
+      "/*Begin Reset CSS*/",
+      "*::before,",
+      "*,",
+      "* ::after {",
+      "  box-sizing: border-box;",
+      "  -webkit-box-sizing: border-box;",
+      "  margin: 0;",
+      "  padding: 0;",
+      "  border: 0;",
+      "}",
+      "img {",
+      "    display: inline-block;",
+      "    max-width: 100%;",
+      "}",
+      "a {",
+      "    cursor: pointer;",
+      "}",
+      "ul {",
+      "    list-style-type: none;;",
+      "}",
+      "/*End Reset CSS*/"
+    ],
+    "description": "Reset CSS"
+  },
+  "Set background color": {
+    "prefix": "bgc",
+    "body": ["background-color: $1;"],
+    "description": "Set background color"
+  }
+}

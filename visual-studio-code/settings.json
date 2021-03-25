@@ -1,0 +1,77 @@
+{
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', Arial",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.wordWrap": "on",
+    "editor.tabCompletion": "on",
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#282a37",
+        "editor.background": "#282a37",
+        "terminal.background": "#282a37",
+        "activityBar.background": "#282a37",
+        // "tab.activeBorderTop": "#ffb86c",
+        // "panelTitle.activeBorder": "#ffb86c",
+    },
+    "editor.tokenColorCustomizations": {
+        // "[Dracula]": {
+        //   "textMateRules": [
+        //     {
+        //       "scope": "entity.name.function",
+        //       "settings": {
+        //         "foreground": "#ffb86c",
+        //         "fontStyle": "bold"
+        //       }
+        //     },
+        //     {
+        //       "scope": "entity.other.attribute-name",
+        //       "settings": {
+        //         "foreground": "#00FF68",
+        //         "fontStyle": ""
+        //       }
+        //     },
+        //     {
+        //       "scope": "string",
+        //       "settings": {
+        //         "foreground": "#FFE887"
+        //       }
+        //     },
+        //     {
+        //       "scope": "punctuation.definition.string.begin",
+        //       "settings": {
+        //         "foreground": "#FFE887"
+        //       }
+        //     },
+        //     {
+        //       "scope": "punctuation.definition.string.end",
+        //       "settings": {
+        //         "foreground": "#FFE887"
+        //       }
+        //     },
+        //     {
+        //       "scope": "string.unquoted",
+        //       "settings": {
+        //         "foreground": "#00FF68",
+        //         "fontStyle": ""
+        //       }
+        //     }
+        //   ]
+        // }
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "tabnine.experimentalAutoImports": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "sync.gist": "afd265114df14b2bd28c5896954c2a30",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "window.zoomLevel": 0,
+}

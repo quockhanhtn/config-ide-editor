@@ -1,0 +1,9 @@
+{
+	"Set background color": {
+		"prefix": "bgc"Set background color": {   "prefix": "bgc",   "body": [     "background-color: ${1:#000};"   ],   "description": "Set background color" }",
+		"body": [
+		  "background-color: ${1:#000};"
+		],
+		"description": "Set background color"
+	  }
+}
