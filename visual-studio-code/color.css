@@ -1,0 +1,35 @@
+/*
+ * Gradient color reference from evondev https://www.youtube.com/channel/UC8vjHOEYlnVTqAgE6CFDm_Q
+ */
+
+.mtk15, .mtk10 {
+  color: transparent;
+  background-image: linear-gradient(to right top, #fc6c8f, #ff2ced);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mtk5 {
+  color: transparent;
+  background-image: linear-gradient(to right bottom, #20e3b2 60%, #2cccff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mtk16 {
+  color: transparent;
+  background-image: linear-gradient(to right top, #9a86fd, #6a5af9);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mtk17 {
+  color: transparent;
+  background-image: linear-gradient(to right bottom, #0c97fa, #16e1f5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
